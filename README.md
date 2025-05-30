@@ -1,8 +1,5 @@
 # React-Todo-App
 Todo list app project using react 
-Here is the screenshot of the project.
-
-
 <h3>Functionalities:</h3>
 <ol>
   <li> Add Todo by clicking add button</li>
